@@ -7,6 +7,7 @@ class Document {
         int m=sc.nextInt();
         System.out.println("enter 2nd number");
         int n=sc.nextInt();
+        System.out.println(add(m,n));
 
     }
     public static int add(int m,int n){
