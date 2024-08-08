@@ -18,10 +18,10 @@ class Document {
             break;
             case 2:
                 System.out.println("enter 1st number");
-                int m=sc.nextInt();
+                int a=sc.nextInt();
                 System.out.println("enter 2nd number");
-                int n=sc.nextInt();
-                System.out.println(sub(m,n));
+                int b=sc.nextInt();
+                System.out.println(sub(a,b));
             break;
             default:
                 System.out.println("invalid input");
